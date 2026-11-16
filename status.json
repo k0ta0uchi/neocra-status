@@ -1,0 +1,99 @@
+{
+ "updated_at": "2026-11-21T21:07:07+09:00",
+ "totals": {
+  "videos_done": 861,
+  "chunks_done": 23752,
+  "audio_hours_done": 3958.7,
+  "sheet_rows": 23723,
+  "completion_list_count": 860
+ },
+ "youtube": {
+  "processable": 536,
+  "done": 536,
+  "pct_videos": 100.0,
+  "chunks_done": 14498,
+  "chunks_est_total": 14488,
+  "pct_chunks": 100.1
+ },
+ "twitch": {
+  "processable": 326,
+  "done": 324,
+  "pct_videos": 99.4,
+  "chunks_done": 9224,
+  "chunks_est_total": 8834,
+  "pct_chunks": 104.4
+ },
+ "queue": {
+  "pending_total": 0,
+  "pending_youtube": 0,
+  "pending_twitch": 0,
+  "guarded_total": 0,
+  "guarded_live": 0,
+  "guarded_fresh": 0,
+  "guarded": []
+ },
+ "workers": {
+  "pc": {
+   "state": "active",
+   "current": null
+  },
+  "vm": {
+   "state": "stopped",
+   "current": null
+  }
+ },
+ "preserve": {
+  "done": 50,
+  "failed": 6,
+  "pending": 11
+ },
+ "recap": {
+  "segments_total": 23487,
+  "segments_summarized": 23487,
+  "pct_segments": 100.0,
+  "days_approved": 18,
+  "days_held": 3,
+  "days_pending": 0,
+  "facts_approved": 417,
+  "facts_rejected": 27,
+  "latest_approved_day": "2026-11-20",
+  "fetched_at": "2026-11-21T21:07:15+09:00"
+ },
+ "recent_done": [
+  {
+   "video_id": "tw:2935099265",
+   "title": "【スト鯖】マイクラ チル釣り雑談 ねおクラ2nd",
+   "streamer": "せらヴぃ_Twitch クリコン実況",
+   "segments": 30,
+   "completed_at": "2026-11-21T08:35:34+09:00"
+  },
+  {
+   "video_id": "y5bg35qCZ6g",
+   "title": "【ねおクラ】冒険予定なり！！",
+   "streamer": "花輪しの🌺🚴‍♀️初配信グッズ発売中",
+   "segments": 15,
+   "completed_at": "2026-11-21T08:16:49+09:00"
+  },
+  {
+   "video_id": "tw:2935045341",
+   "title": "Minecraft ＃ねおクラ season2 Day.20",
+   "streamer": "にゃんなや＠微少女",
+   "segments": 41,
+   "completed_at": "2026-11-21T08:16:49+09:00"
+  },
+  {
+   "video_id": "tw:2935056153",
+   "title": "【Minecraft/♯ねおクラseason2】♯１１何かする",
+   "streamer": "米田スイ🌾🍚よねだすい",
+   "segments": 10,
+   "completed_at": "2026-11-21T07:46:00+09:00"
+  },
+  {
+   "video_id": "tw:2934998933",
+   "title": "【ねおクラ Season2 】#12 今日も眠くなるまでホリホリ",
+   "streamer": "ひろじゃぱん🇯🇵🔥Soleil Gaming",
+   "segments": 14,
+   "completed_at": "2026-11-21T06:44:43+09:00"
+  }
+ ]
+}
